@@ -43,5 +43,7 @@ Built an HR attendance analytics dashboard using Power BI.
 - Unpivoted attendance columns
 - Cleaned and transformed date fields
 
+![Dashboard](screenshotsdashboard.png)
+
 
 
